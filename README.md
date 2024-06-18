@@ -119,3 +119,24 @@ Gavin,9,4,9.2,"3030 Birch St","Gavin Smith","Olivia Smith","2014-01-03"
 Holly,10,5,8.0,"3131 Cedar St","Holly Davis","Daniel Davis","2013-05-29"
 Ian,11,6,7.8,"3232 Elm St","Ian Turner","Sophia Turner","2012-09-20"
 Jenna,9,4,9.5,"3333 Sycamore St","Jenna Martin","Ella Martin","2014-
+
+02-26"
+Kevin,10,5,8.4,"3434 Spruce St","Kevin Harris","Lily Harris","2013-06-09"
+Lila,11,6,7.2,"3535 Maple St","Lila White","Michael White","2012-08-14"
+Mark,9,4,9.3,"3636 Oak St","Mark Brown","Sophia Brown","2014-01-12"
+Nina,10,5,8.7,"3737 Pine St","Nina Smith","Olivia Smith","2013-05-17"
+Oscar,11,6,7.9,"3838 Birch St","Oscar Turner","Emily Turner","2012-09-30"
+Paula,9,4,9.4,"3939 Elm St","Paula Harris","John Harris","2014-03-11"
+Quincy,10,5,8.1,"4040 Cedar St","Quincy Davis","Daniel Davis","2013-04-01"
+Ruby,11,6,7.7,"4141 Sycamore St","Ruby Martin","Ella Martin","2012-11-30"
+Steve,9,4,9.6,"4242 Spruce St","Steve White","Michael White","2014-02-04"
+Tina,10,5,8.3,"4343 Maple St","Tina Brown","Sophia Brown","2013-05-08"
+Ursula,11,6,7.1,"4444 Oak St","Ursula Smith","Olivia Smith","2012-08-27"
+Vince,9,4,9.1,"4545 Pine St","Vince Turner","Emily Turner","2014-01-20"
+Wes,10,5,8.9,"4646 Birch St","Wes Harris","Lily Harris","2013-04-27"
+Xena,11,6,7.4,"4747 Elm St","Xena Davis","John Davis","2012-09-13"
+Yvonne,9,4,9.7,"4848 Sycamore St","Yvonne Martin","Ella Martin","2014-03-24"
+Zach,10,5,8.2,"4949 Spruce St","Zach White","Michael White","2013-05-03"
+```
+
+Boa sorte no desenvolvimento do projeto!
