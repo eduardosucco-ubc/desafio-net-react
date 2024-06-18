@@ -118,9 +118,7 @@ Fiona,11,6,7.5,"2929 Pine St","Fiona Harris","John Harris","2012-10-16"
 Gavin,9,4,9.2,"3030 Birch St","Gavin Smith","Olivia Smith","2014-01-03"
 Holly,10,5,8.0,"3131 Cedar St","Holly Davis","Daniel Davis","2013-05-29"
 Ian,11,6,7.8,"3232 Elm St","Ian Turner","Sophia Turner","2012-09-20"
-Jenna,9,4,9.5,"3333 Sycamore St","Jenna Martin","Ella Martin","2014-
-
-02-26"
+Jenna,9,4,9.5,"3333 Sycamore St","Jenna Martin","Ella Martin","2014-02-26"
 Kevin,10,5,8.4,"3434 Spruce St","Kevin Harris","Lily Harris","2013-06-09"
 Lila,11,6,7.2,"3535 Maple St","Lila White","Michael White","2012-08-14"
 Mark,9,4,9.3,"3636 Oak St","Mark Brown","Sophia Brown","2014-01-12"
